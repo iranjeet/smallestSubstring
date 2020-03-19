@@ -1,9 +1,11 @@
 package trial;
 import java.util.*;
+import java.awt.*;
 public class StringLength {
   
 	    public static void main(String[] args) 
 	    { 
+	    	System.out.println("checkGit status");
 	    	Scanner sc=new Scanner(System.in);
 	    	System.out.println("Enter the String To get longest number");
 	        String str = sc.next();
